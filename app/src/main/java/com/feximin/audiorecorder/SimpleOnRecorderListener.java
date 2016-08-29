@@ -36,10 +36,10 @@ public class SimpleOnRecorderListener implements OnRecorderListener {
 
     }
 
-    @Override
-    public void onMaxDuration(long duration) {
-
-    }
+//    @Override
+//    public void onMaxDuration(long duration) {
+//
+//    }
 
     @Override
     public void onUpdateAmpDisplay(int amp, long duration) {

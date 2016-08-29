@@ -18,7 +18,7 @@ public interface OnRecorderListener {
 
 		void onRecordStop(long duration, Uri uri);
 
-		void onMaxDuration(long duration);
+//		void onMaxDuration(long duration);
 
 		/**
 		 * @param amp      当前的分贝

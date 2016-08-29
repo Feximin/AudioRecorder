@@ -94,7 +94,7 @@ public class RecorderManager {
                 }
                 if (left < mConfig.getUpdateInterval()) {
                     stop();
-                    mListener.onMaxDuration(mConfig.getMaxDuration());
+//                    mListener.onMaxDuration(mConfig.getMaxDuration());
                 }
 			}
 
